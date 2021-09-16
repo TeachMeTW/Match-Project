@@ -1,0 +1,9 @@
+.DS_Store
+bazel-*
+repor
+external/
+
+!external/gtest.BUILD
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
