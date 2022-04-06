@@ -6,7 +6,7 @@
 
 #include <cstdint>
 #include <cstdlib>
-#include "data/data.h"
+#include "data.h"
 
 #define WEIGHT (static_cast<double>(std::rand()) / RAND_MAX)
 

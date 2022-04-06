@@ -10,7 +10,7 @@
 #include <cstdint>
 #include <map>
 #include <vector>
-#include "data/data.h"
+#include "../data/data.h"
 
 class Match {
  public:

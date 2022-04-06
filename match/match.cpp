@@ -8,8 +8,8 @@
 #include <tuple>
 #include <algorithm>
 #include <set>
-#include "match/match.h"
-#include "data/data.h"
+#include "match.h"
+#include "../data/data.h"
 
 // Some helpful macros, use them if you wish
 
